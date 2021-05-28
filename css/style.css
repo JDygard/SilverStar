@@ -1,3 +1,8 @@
+html, body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:large;
+}
+
 .nav {
     justify-content: center;
     font-size: 36px;
@@ -32,4 +37,9 @@ h3 {
 p {
     padding-left: 3%;
     padding-right: 3%;
+}
+
+em {
+    font-style: bold;
+    font-size:large;
 }
